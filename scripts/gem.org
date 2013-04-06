@@ -1,0 +1,33 @@
+Learning Perl6 
+* io
+ 
+
+** format output
+ 
+* scalar
+
+* list
+
+* hash
+  
+* operator and predence
+
+
+* functional perl6
+
+*
+»
+
+#+BEGIN_CODE
+my $file=open 'files';
+
+  use v6;
+   
+    my @fibonacci = 1, 1, { $^a + $^b } ... *;
+
+    say @fibonacci[11];
+#+END_CODE
+
+* best practice
+
+#always have white spaces between operators and operand.

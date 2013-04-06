@@ -1,0 +1,17 @@
+grammar Question::Grammar {
+    token TOP {
+        \n*
+        <question>+
+    }
+    token question {
+        <header>
+        <answer>+
+    }
+    token header {
+        ^^ $<type>=['pickone'|'pickmany'] ':' \s+ $<text>=[\N*] \n
+    }
+    token answer {
+        ^^ \s+ $<correct>=['ac'|'ai'] ':' \s+ $<text>=[\N*] \n
+    }
+}
+

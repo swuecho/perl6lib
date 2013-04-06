@@ -1,0 +1,9 @@
+* private method
+private method are declared using !
+
+method !think (Brain $self: thought)
+
+* submethod BUILD
+build  is called by bless. Its primary use is to control
+object initialization.
+

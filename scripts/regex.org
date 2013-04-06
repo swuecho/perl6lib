@@ -1,0 +1,14 @@
+Perl6 regex
+* Regex anchors
+| ^  | start of string        |
+| $  | end of string          |
+| ^^ | start of line          |
+| $$ | end of line            |
+| << | left word boundary     |
+| >> | right of word boundary |
+|    |                        |
+
+match operate
+$s~~m/ /
+~~ smart match
+m/ / buil a regex

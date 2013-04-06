@@ -1,0 +1,20 @@
+class PDF::Object::Dictionary is rw does Stringy {
+    has %.pairs;
+
+    method Stringy {
+    my @keys = %.pairs.keys X~ ' ';
+    my @values = %.pairs.values X~ "\n";
+    "<<\n" ~
+      (@keys >>~<< @values)  ~
+    ">>\n"
+    }
+
+}
+
+
+
+my $dic = PDF::Object::Dictionary.new(pairs => ("a" => 2, "b" =>4));
+
+say $dic.pairs.perl;
+say (~$dic).perl;
+

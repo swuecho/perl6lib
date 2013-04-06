@@ -1,0 +1,18 @@
+Combinartorics
+
+sub postfix:<!>(
+	$n
+)
+x!=factorial x
+
+sub Pnk(
+	Int $n, 
+	Int $k
+)
+k-permutation of N
+
+sub permutation(
+	@xs, 
+	$num
+)
+get the all possible permutation

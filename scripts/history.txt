@@ -1,0 +1,2000 @@
+cd
+ls
+cd Downloads/
+ls
+cd
+cd Documents/
+ls
+git clone git://github.com/bbatsov/prelude.git
+ls
+cd prelude/
+ls
+git status
+cd ..
+ls
+cd ..
+ls
+cd mblog/
+git sta
+git status 
+cd
+perl6-debug
+cd Downloads/rakudo-star-2012.11/
+ls
+perl6-debug
+cd rakudo/
+ls
+perl6-debug
+cd
+cd -
+cd ..
+ack perl6-debug
+ld
+ls
+cd modules/
+ls
+cd panda/
+ls
+cd
+perl6
+cd mblog/
+ls
+cd script/
+ls
+morbo twi.db 
+morbo mblog 
+cd
+cd Dropbox/perl
+ls
+cat "这是测试" > test.txt
+cat "这是测试" >test.txt
+echo "这是测试" >test.txt
+cat test.txt 
+cd
+cd mblog/
+ls
+cd lib/
+ls
+cd Mblog/
+ls
+perl mojo.pl 
+ls
+cd ..
+cd ../script/
+ls
+perl mojo.pl 
+morbo m
+morbo mblog 
+cd
+cd
+cpanm Mouse
+apt-get update
+sudo apt-get update
+apt-get install typesafe-stack
+sudo apt-get install typesafe-stack
+sbt sbt-version
+ls
+cd Templates/
+ls
+ls -la
+cd ..
+cat missfont.log 
+cd 
+ls
+play help
+perl -E 'my $a = [1,2,3,3,5]; say $a'
+perl -E 'my $a = [1,2,3,3,5]; say @$a'
+perl -e 'use v5.14; my $a = [1,2,3,3,5]; say @$a'
+perl -e 'use v5.14; my $a = [1,2,3,3,5]; say $a'
+perl -e 'use v5.14; my @a = [1,2,3,3,5]; say $a'
+perl -e 'use v5.14; my @a = [1,2,3,3,5]; say @a'
+perl -e 'use v5.14; my @a = [1,2,3,3,5]; say @a[1]'
+perl -e 'use v5.14; my @a = [1,2,3,3,5]; say $a[1]'
+perl -e 'use v5.14; my @a = [1,2,3,3,5]; say @a'
+perl -e 'use v5.14; my @a = [1,2,3,3,5]; say @@a'
+perl -e 'use v5.14; my @a = [1,2,3,3,5]; say @a'
+perl -e 'use v5.14; my @a = [1,2,3,3,5]; say $@a'
+perl -e 'use v5.14; my @a = [1,2,3,3,5]; say $@a'cd
+ls
+cd Dropbox/perl/
+ls
+vim encode.pl
+cd ..
+cd mojo/
+cd
+cd mblog/
+ls
+git branch
+git brance -b unicode
+git branch -b unicode
+git branch uni
+git branch
+git checkout uni
+git branch
+ls
+cd lib/
+ls
+cd Mblog/
+ls
+vim Blog.pm
+cd ..
+ls
+cd Mblog/
+git branch
+ls
+cd ..
+cd script/
+morbo mblog 
+cd ..
+ls
+cd lib/
+ls
+cd Mblog/
+ls
+vi Blog.pm
+ls
+git branch
+ls
+vi mojo.pl
+ls
+vi Blog.pm
+cd ..
+ls
+git branch 
+git checkout master 
+git branch 
+ls
+git branch 
+ls
+cd lib/
+ls
+cd Mblog/
+ls
+cat Blog.pm
+cd ..
+ls
+cd
+git status
+cd mblog/
+git status
+git checkout uni
+git status 
+cd ..
+cd mblog/
+git diff
+ls
+git branch -D uni
+git checkout master 
+git branch -D uni
+ls
+cd lib/
+ls
+cd Mblog/
+ls
+cd ..
+ls
+cd script/
+ls
+cd li
+cd lib
+cd ..
+cd lib/Mblog/
+ls
+cat Blog.pm
+cd ..
+ls
+git status 
+cd 
+cd mblog/
+ls
+git checkout -- .
+git status 
+cd ..
+cd mblog/
+ls
+cd lib/Mblog/
+ls
+cat Blog.pm
+cd ..
+cd script/
+morbo mblog 
+ls
+git status
+ls
+cd ..
+git status 
+cd script/
+ls
+rm -r db/
+ls
+git status
+git add mojo.pl
+git commit -m 'test script'
+git diff
+git status 
+ls
+cd
+ls
+cd mblog/
+ls
+cd script/
+ls
+morbo mblog 
+ls
+git diff
+git status 
+git add twi.db
+git commit -m 'renew twi'
+ls
+git status
+ls
+cd ../log/
+git add .
+git commit 
+git status
+git diff
+cd
+g8 typesafehub/play-scala
+ls
+cd eself/
+ls
+cat README 
+sbt 
+cd 
+play help
+cd eself/
+ls
+cd app/
+ls
+cd ..
+cd project/
+ls
+cd ..
+sbt
+tree
+perl6 -e '"000100030004".comb(....).join('-')
+'
+perl6 -e '"000100030004".comb(....).join('-')'
+perl6 -e '"000100030004".comb("....").join('-')'
+perl6 -e 'say "000100030004".comb("....").join('-')'
+perl6 -e 'say "000100030004".comb("....")'
+perl6 -e 'say "000100030004".comb(/..../)'
+perl6 -e 'say "000100030004".comb(/..../).join('-')'
+perl6 -e 'say "000100030004".comb(/..../).join("-")'
+ls
+cd mblog/
+ls
+cd db/
+ls
+git clone https://github.com/rwldrn/idiomatic.js.git
+ls
+cd ..
+cd script/
+ls
+morbo mblog 
+cabal install cheatsheet
+cd .cabal/bin/
+ls
+cheatsheet
+gedit cheatsheet
+pdf cheatsheet 
+viewer cheatsheet 
+document viewer cheatsheet 
+cd
+cpanm MooseX::Declare
+cd Dropbox/perl/
+ls
+cd Play/
+LS
+ls
+cd
+cd Dropbox/perl/play/
+ls
+perl testsyntax.pl
+vi testsyntax.pl
+perl testsyntax.pl
+vi testsyntax.pl
+perl testsyntax.pl
+ls
+vi testsyntax.pl
+perl testsyntax.pl
+cd
+cpanm Syntax::Collector
+cd -
+ls
+perl testsyntax.pl
+vi testsyntax.pl
+perl testsyntax.pl
+vi testsyntax.pl
+perl testsyntax.pl
+vi testsyntax.pl
+
+perl testsyntax.pl
+vi testsyntax.pl
+perl testsyntax.pl
+ls
+perl testsyntax.pl
+vi testsyntax.pl
+
+perl testsyntax.pl
+vi ./Echo/Syntax.pm
+perl testsyntax.pl
+cd
+cpanm Method::Signature
+cpanm Method::Signatures
+cd -
+perl testsyntax.pl
+vi mooseX.pl
+perl mooseX.pl
+vi mooseX.pl
+perl mooseX.pl
+vi mooseX.pl
+perl mooseX.pl
+vi mooseX.pl
+perl mooseX.pl
+vi mooseX.pl
+perl mooseX.pl
+vi mooseX.pl
+perl mooseX.pl
+vi mooseX.pl
+perl mooseX.pl
+vi mooseX.pl
+perl mooseX.pl
+ls
+cpanm Mo
+cpanm PDL
+pdl
+ls
+cd scalaweb/
+ls
+git diff
+git status
+git branch 
+git checkout testing 
+git diff
+git status
+cat test.txt 
+echo "test 2" >>test.txt 
+cat test.txt 
+git branche
+git branch
+git checkout master 
+cat test.txt 
+git branch 
+cat test.txt 
+git checkout -D testing 
+git branch -D testing 
+cat test.txt 
+git diff
+git checkout --test.txt
+git checkout -- test.txt
+git diff
+git status
+git branch 
+git log
+cd
+ls
+cpanm PDF::Create
+cd Dropbox/perl/
+ls
+cd play/
+ls
+vi pdf.pl
+perl pdf.pl 
+ls
+fg
+perl pdf.pl 
+ls
+perl pdf.pl 
+ls
+fg
+perl pdf.pl 
+fg
+perl pdf.pl 
+cat mypdf.pdf 
+cd Dropbox/perl6
+ls
+mkdir pdf
+cd pdf/
+ls
+vi class.pl
+perl6 class.pl 
+fg
+perl6 class.pl 
+fg
+perl6 class.pl 
+fg
+perl6 class.pl 
+fg
+perl6 class.pl 
+fg
+perl6 class.pl 
+fg
+perl6 class.pl 
+fg
+perl6 class.pl 
+fg
+perl6 class.pl 
+fg
+perl6 class.pl 
+fg
+perl6 class.pl 
+fg
+perl6 class.pl 
+fg
+perl6 class.pl 
+vi camel.pl
+perl6 camel.pl 
+vi camel.pl
+perl6 camel.pl 
+vi camel.pl
+perl6 camel.pl 
+fg
+vi class.pl 
+perl6 class.pl 
+vi class.pl 
+perl6 class.pl 
+vi class.pl 
+perl6 class.pl 
+vi class.pl 
+perl6 class.pl 
+vi class.pl 
+perl6 class.pl 
+vi class.pl 
+perl6 class.pl 
+vi class.pl 
+perl6 class.pl 
+vi class.pl 
+perl6 class.pl 
+vi class.pl 
+perl6 class.pl 
+vi class.pl 
+fg
+perl6 class.pl 
+fg
+perl6 class.pl 
+fg
+perl6 class.pl 
+fg
+perl6 class.pl 
+vi butterfly.pl
+perl6 butterfly.pl 
+ls
+vi class.pl 
+perl6
+ls
+fg
+perl6 class.pl 
+ls
+fg
+perl6 class.pl 
+fg
+perl6 class.pl 
+fg
+perl6
+perl6 -e "say %*ENV"
+perl6 -e "say %*ENV" > env.pl
+vi env.pl 
+ls
+perl6 -e 'say %*ENV<LOGNAME>"
+'
+perl6 -e 'say %*ENV<LOGNAME>'
+fg
+ls
+perl6 info.pl 
+fg
+perl6 info.pl 
+fg
+perl6 info.pl 
+fg
+perl6 info.pl 
+fg
+perl6 info.pl 
+fg
+perl6 info.pl 
+fg
+perl6 info.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+ls
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+ls
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+ls
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+ls
+vi info.pl 
+perl6 info.pl 
+fg
+perl6 info.pl 
+fg
+perl6 info.pl 
+fg
+perl6 info.pl 
+fg
+perl6 info.pl 
+fg
+perl6 info.pl 
+fg
+perl6 info.pl 
+perl6 trailer.pl 
+vi object.pl
+perl6 object.pl 
+fg
+perl6 object.pl 
+fg
+perl6 object.pl 
+ls
+fg
+ls
+fg
+ls
+cd pdfclass/
+ls
+vi type.pl
+perl6 dic.pl 
+fg
+perl6 dic.pl 
+fg
+perl6 dic.pl 
+fg
+perl6 ls
+ls
+perl6 indirobj.pl 
+fg
+perl6 indirobj.pl 
+fg
+perl6 indirobj.pl 
+fg
+perl6 indirobj.pl 
+fg
+perl6 indirobj.pl 
+fg
+perl6 indirobj.pl 
+fg
+perl6 indirobj.pl 
+fg
+perl6 indirobj.pl 
+fg
+perl6 indirobj.pl 
+fg
+perl6 indirobj.pl 
+fg
+perl6 indirobj.pl 
+fg
+perl6 indirobj.pl 
+fg
+perl6 indirobj.pl 
+fg
+perl6 indirobj.pl 
+fg
+perl6 indirobj.pl 
+fg
+perl6 indirobj.pl 
+fg
+ls
+cd PDF/
+ls
+perl6 Header.pm
+perl6 Header.pl
+ls
+vi trailer.pl 
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+perl6 trailer.pl 
+fg
+vi dic.pl 
+fg
+ls
+cd Object/
+ls
+perl6 indirobj.pl
+ls
+perl6 dic.pl
+fg
+perl6 dic.pl
+perl6
+perl6 dic.pl
+perl6
+perl6 dic.pl
+cd Dropbox/perl6/
+ls
+cd pdf/
+ls
+cd pdfclass/
+ls
+perl6 test.pl
+cat test.pl
+perl6 test.pl
+lcd
+ls
+cd PDF/
+ls
+perl6 Info.pl
+perl6 -e '4.7kΩ ± 1kΩ'
+perl6 Info.pl
+cd 
+cd perl5/lib/perl5/specs/
+ls
+which pod2pdf
+pod2pdf S12-objects.pod 
+pod2pdf S12-objects.pod >object.pdf
+ls
+cd S32-setting-library/
+ls
+perl pod2pdf.pl 
+vi pod2pdf.pl 
+perl pod2pdf.pl 
+fg
+perl pod2pdf.pl 
+fg
+perl pod2pdf.pl 
+fg
+perl pod2pdf.pl 
+fg
+perl pod2pdf.pl 
+fg
+perl pod2pdf.pl 
+fg
+perl pod2pdf.pl 
+f
+fg
+perl pod2pdf.pl 
+fg
+perl pod2pdf.pl 
+fg
+perl pod2pdf.pl 
+ls
+fg
+perl pod2pdf.pl 
+ls
+fg
+perl pod2pdf.pl 
+fg
+perl pod2pdf.pl 
+fg
+perl pod2pdf.pl 
+cpanm Paper::Specs
+perl pod2pdf.pl 
+ls
+ls *.pdf
+rm *.pdf
+ls
+perl pod2pdf.pl 
+cd ..
+ls
+perl pod2pdf.pl 
+cd
+cd Dropbox/perl6/pdf/
+ls
+vi note.org 
+ls -a 
+cd
+ls -a
+cat .fontconfig/
+cd .fontconfig/
+ls
+cd ..
+ls
+ls -a
+cd .emacs.d/
+ls
+cat init.el 
+cd
+cd Dropbox/perl6/pdf/
+ls
+fg
+lf
+fg
+ls
+cd pdfclass/
+ls
+cd PDF/
+ls
+perl6 info.pl
+perl6 info.pl |less
+perl6
+perl6 info.pl 
+ls
+cd ..
+ls
+perl6 test
+perl6 test.pl
+cd PDF/
+ls
+perl6 cat Info.pl
+cat Info.pl
+perl6 cat Info.pl
+perl6 test.pl
+perl6Info.pl
+perl6 Info.pl
+cd
+cpanm OX
+ls
+perl -MOX -E 'say 1'
+perldoc OX
+ls
+cd
+cd scalaweb/
+ls
+cd ..
+cd Dropbox/scala/
+ls
+git clone https://github.com/heathermiller/progfun-stats.git
+ls
+cd Dropbox/
+ls
+cd perl6
+ls
+cd pdf/
+ls
+cd pdfclass/
+ls
+cd PDF/
+ls
+vi text.pl
+fg
+perl6 text.pl
+cat Object/*
+cat Object/* >Object.pm
+cd
+cd -
+ls
+cd scirpts/
+ls
+perl6 Object.pl
+cd ..
+ls
+cat Trailer.p
+cat Trailer.pm
+ls
+vi pdf.pl
+ls
+vi pdf.pl
+fg
+ls
+cd ..
+ls
+vi pdf.pl
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 -e ' say 42.fmt('%04d')   '
+perl6 -e 'say 42.fmt('%04d')'
+perl6
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+perl6 ./PDF/Cross_ref.pm 
+fg
+vi state.pl
+perl6 state.pl
+fg
+perl6 state.pl
+fg
+perl6 state.pl
+fg
+perl6 state.pl
+fg
+ls
+vim pdf.pl
+cd
+cd mblog/
+ls
+cd script/
+morbo mblog 
+cd -
+cd ..
+cd Dropbox/perl6/
+ls
+cd pdf/
+cd pdfclass/
+ls
+vi pdf.pl
+vim pdf.pl
+ls
+cd 
+cd Dropbox/perl/
+ls
+cd mojo/
+ls
+cd  ..
+cd dancer/
+ls
+cd ..
+ls
+cd OX/
+ls
+vi hello.pl
+perl  hello.pl
+fg
+mv hello.pl hello.psgi
+ls
+perl hello.psgi 
+plack hello.psgi 
+plackup hello.psgi 
+plackup counter.psgi 
+ls
+cd ..
+cd play/
+ls
+vi mooseX.pl
+perl testsyntax.pl
+cpanm fun
+cpanm Fun
+fg
+perl testsyntax.pl
+fg
+perl testsyntax.pl
+cpanm Try
+cpanm update
+cd
+cpanm --help
+cpanm --self-upgrade
+perlbrew
+cd
+cd -
+cd Dropbox/perl/play/
+ls
+perldoc Fun
+ls
+perl testsyntax.pl
+cpanm Critc
+cpanm Critic
+cpanm Perl::Critic
+php
+PHP
+perl -v
+perl6 -v
+cd ..
+ls
+cd ..
+cd perl6
+ls
+cd pdf/
+cd pdfclass/
+ls
+cd PDF
+ls
+cd scirpts/
+ls
+vi Info.pl
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+perl6 -e ' map { * * 2} 1..5'
+perl6 -e ' map { $_ * 2} 1..5'
+perl6 -e ' map { $_ * 2}, 1..5'
+perl6 -e ' say map { $_ * 2}, 1..5'
+perl6 -e ' say map {$_ => $_ * 2}, 1..5'
+perl6 -e ' say map {sub {$_ => $_ * 2}}, 1..5'
+perl6 -e ' map {sub {$_ => $_ * 2}}, 1..5'
+perl6 -e ' my %h= map {sub {$_ => $_ * 2}}, 1..5'
+perl6 -e ' my %h= map {sub {$_ => $_ * 2}}, 1..6'
+perl6 -e ' my %h= map {sub {$_ => $_ * 2}}, 1..6; say %h'
+perl6 -e ' my %h= map { $_ => $_ * 2}}, 1..6; say %h'
+perl6 -e ' my %h= map { $_ => $_ * 2}, 1..6; say %h'
+perl6 -e ' my %h= map { $, $_ * 2}, 1..6; say %h'
+perl6 -e ' my %h= map { $_, $_ * 2}, 1..6; say %h'
+fg
+perl6 -e ' my %h= map { $_, $_ * 2}, 1..6; say %h'
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+perl6 -e 'say ref ""'
+perl6 -e 'say type ""'
+perl6 -e 'say  "".type'
+perl6 -e 'say  type("")'
+fg
+perl6 -e 'say  type("")'
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+ls
+cd ..
+cd..
+cd ..
+ls
+cd ..
+mkdir meta
+cd meta/
+git clone https://gist.github.com/276591.git
+ls
+cd 276591/
+ls
+vim meta_perl6.pl 
+cd
+cd Music/
+ls
+wget
+wget -np -nd -r --accept=mp3 http://perlcast.com/episodes/
+ls
+cat robots.txt 
+ls
+wget -np -nd -r --accept=mp3 http://perlcast.com/episodes/
+wget -np -r --accept=mp3 http://perlcast.com/episodes/
+ls
+cd perlcast.com/
+ls
+cd episodes/
+ls
+cd feed/
+ls
+cd
+cd Music/
+ls
+rm -r perlcast.com/
+ls
+wget -np -r --accept=mp3 http://perlcast.com/audio
+ls
+cd perlcast.com/
+ls
+cd audio/
+ls
+cd ..
+ls
+cd 2005
+ls
+cd 05
+ls
+cd o1
+ls
+cd 01
+ls
+cd ..
+ls
+rm robots.txt 
+ls
+cd ..
+ls
+rm robots.txt
+rm robots.txt.1 
+ls
+cd perlcast.com/
+ls
+tree
+ls
+cd ..
+cd
+telnet google.com
+telnet www.google.com
+telnet example.com 80
+ls
+cpanm PSGI Plack
+perldoc PSGI
+cut
+cut --help
+perl -l -e 'use Moose; print Moose->VERSION'
+perl -e 'use Moose; print Moose->VERSION'
+ls
+ln
+ln --help
+ln --help |less
+ln Dropbox/perl6/pdf/
+ln --help |less
+ln --symbolic Dropbox/perl6/pdf/
+ls
+cd pdf
+ls
+cd pdfclass/
+ls
+cd PDF/
+ls
+cd scirpts/
+ls
+vim Info.pm
+vi Info.pl
+vim Info.p
+vim Info.pl
+ls
+ack INFO
+cd ..
+fg
+vim Info.pm
+ls
+cd scirpts/
+ls
+vi Info.pm
+vim Info.pm
+cd ..
+vi Roles.pm
+ls
+ls *~
+rm *~
+ls
+vim Special_dic.pl 
+vi Special_dic.pl 
+ls
+cd scirpts/l
+cd scirpts/
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+perl6 Info.pl
+fg
+ls
+fg
+ls
+perl6 text.pl
+ls
+rm PageTree.pm 
+ls
+cat Body.pl 
+cat Header.pl 
+ls
+cd
+cd pdf
+ls
+cd pdfclass/
+ls
+vi pdf.pl
+fg
+ls
+cd Downloads/
+ls
+sudo dpkg -i WineQQ2012-20120531-Longene.deb 
+ls
+rm WineQQ2012-20120531-Longene.deb 
+re python-2.7.3-docs-pdf-a4.zip 
+rm python-2.7.3-docs-pdf-a4.zip 
+rm linuxqq_v1.0.2*
+ls
+rm node-v0.8.16-linux-x86.tar.gz 
+tar -zxvf rakudo-star-2012.12.tar.gz 
+cd rakudo-star-2012.12/
+ls
+perl Configure.pl --gen-parrot 
+make
+make install
+ls
+perl6
+./perl6 -v
+cd
+vi .bashrc
+perl6 -v
+ls
+cd pdf/
+ls
+cd
+latex
+sudo apt-get install texlive-latex-base
+ls
+cd tmp/
+ls
+vi hello.c
+ls
+gcc hello.c 
+vi hello.c 
+gcc hello.c 
+ls
+./a.out 
+gcc -v
+rstudio
+Rstudio
+r
+R
+sudo apt-get install r-base-core
+rstudio
+cd
+ls
+R
+ls
+ls -la
+cat .rstudio-desktop/
+cat .Rhistory 
+ls
+perl6
+ls
+sudo apt-get update
+sudo apt-get upgrade
+java -version
+cd Dropbox/
+ls
+cd clojure
+mkdir clojure
+cd clojure/
+ls
+git clone git://github.com/functional-koans/clojure-koans.git
+ls
+lein koan run
+sudo apt-get install leiningen 
+lein 
+lein -version
+lein version
+ls
+cd 
+ls
+which lein
+lein koan run
+cd Dropbox/clojure/
+lein koan run
+ls
+cd clojure-koans/
+lein koan run
+cd
+sudo apt-get remove leiningen 
+sudo apt-get autoremove 
+ls
+cd Dropbox/clojure/clojure-koans/
+ls
+cat ideaboard.txt 
+cd
+sudo apt-get install lua
+sudo apt-get install lua5.2
+lua
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get autoremove
+ghci
+sudo apt-get install Ocatve
+sudo apt-get install octave
+sudo apt-get install Texmacs
+sudo apt-get install TeXmacs
+sudo apt-get install texmacs
+guile
+sudo apt-get install guile-2.0
+guile
+chmod 755 ~/bin/lein
+ls
+cd bin/
+ls
+cat lein.txt 
+mv lein.txt  lein
+ls
+chmod 755 ~/bin/lein
+cd
+vi .bashrc
+which lein
+lein
+cd Dropbox/clojure/clojure-koans/
+ls
+lein koan run
+ls
+vi src/koans/01_equalities.clj 
+lein koan run
+ls
+cd src/
+ls
+cd koans/
+ls
+cd Dropbox/STAT
+ls
+wc fhs.csv 
+cat fhs.csv 
+cd HW/
+ls
+cat 1.csv 
+vi csv.pl
+ls
+perl6 csv.pl 
+Panda
+cd
+cd bin/
+ls
+git clone git://github.com/tadzik/panda.git
+ls
+cd panda/
+ls
+perl6 bootstrap.pl 
+panda Text::CSV
+/home/echo/Downloads/rakudo-star-2012.12/install/lib/parrot/4.10.0/languages/perl6/site/bin/panda Text::CSV
+/home/echo/Downloads/rakudo-star-2012.12/install/lib/parrot/4.10.0/languages/perl6/site/bin/panda install Text::CSV
+cd
+vi .bashrc
+panda Text::CSV
+vi .bashrc
+panda
+panda Text::CSV
+panda --install Text::CSV
+panda install Text::CSV
+cd Dropbox/STAT
+ls
+cd HW/
+ls
+perl6 csv.pl 
+cat 1.csv 
+ls
+cd
+ls
+cat
+ls
+emacs &
+cd Dropbox/clojure/clojure-koans/
+ls
+lein koan run
+ls
+cd
+perl6
+ls
+cd media
+ls
+cd ..
+ls
+cd ..
+ls
+cd media/
+ls
+cd Expansion\ Drive/
+ls
+ls -l
+ls
+rm xoom/
+rmdir xoom/
+ls
+rm welcome@type\=logout\&visiting\=%2Fautomata%2Flecture%2Fdownload.mp4%3Flecture_id\=32 
+ls
+ls | les
+ls | less
+cd
+ls
+cd Dropbox/perl
+ls
+cat wiki.pl 
+ls
+cat test.pl 
+ls
+cat system.pl 
+vi system.pl 
+python
+ls
+cd Dropbox/python
+ls
+head words.txt 
+fin = open('words.txt')
+python
+ls
+cd Dropbox/notes/
+ls
+vi graduate.md
+ls
+gedit graduate.md 
+python
+easy_install ipython
+sudo apt-get install python-setuptools 
+cd
+ls
+easy_install ipython
+sudo easy_install ipython
+sudo easy_install readline
+sudo easy_install nose
+sudo easy_install readline
+sudo apt-get install spyder
+pip install distribute
+sudo apt-get install python-pip
+sudo pip install distribute
+pip install distribute
+easy_install ipython[notebook]
+sudo easy_install ipython[notebook]
+sudo easy_install notebook
+sudo easy_install ipython[notebook,test]
+iptest
+ipython notebook
+sudo easy_install ipython[zmq,qtconsole,notebook,test]
+ipython notebook
+ls
+cd tmp/
+ls
+cat notebook_test.nb.ipynb 
+ls
+cd
+ipython notebook
+ls
+cd Downloads/
+ls
+tar zxvf OpenBUGS-3.2.2.tar.gz 
+cd OpenBUGS-3.2.2/
+ls
+./configure 
+make
+sudo make install
+man OpenBUGS
+ls
+cd bin/
+ls
+OpenBUGS
+cd
+OpenBUGS
+ls
+OpenBUGS
+sudo apt-get install jags
+jags -v
+jags -version
+jags 
+ls
+cd tmp/
+ls
+cd
+cd Dropbox/R/bayesian/
+ls
+unzip ProgramsDoingBayesianDataAnalysis.zip 
+ls
+mkdir example
+mv *.r example/
+mv *.R example/
+ls
+rm NA
+ls
+cd example/
+ls
+unzip ProgramsDoingBayesianDataAnalysis.zip 
+ls
+cd
+sudo apt-get remove OpenBugs
+ls
+cd Downloads/
+ls
+rm OpenBUGS-3.2.2
+rm OpenBUGS-3.2.2.tar.gz 
+rm -r OpenBUGS-3.2.2/
+ls
+cat trill.txt 
+ls
+rm mendeleydesktop_1.7.1_i386.deb 
+ls
+rm boost_1_52_0.tar.gz 
+ls
+rm rakudo-star-2012.12.tar.gz 
+ls
+rm PIAT-resources.tgz 
+rm repo-deb-build-0002.deb 
+ls
+perl6 -e 'sub foo { state $s = 0; say $s++ }; foo; foo; foo'
+sudo apt-get install clang
+export CC=clang
+export CXX=clang++
+CC
+ls
+cd Dropbox/ls
+cd Dropbox/
+ls
+cd R/
+ls
+cd ..
+ls
+mkdir ML
+ls
+cd ML
+ls
+echo CC
+echo CXX
+sudo apt-get install cmake
+curl -s https://raw.github.com/clementfarabet/torchinstall/master/install | bash
+luarocks search -all
+luarocks search --all
+torch
+torch -ide
+torch
+lua
+cmdlua
+sudo apt-get install scite
+scite
+which lua
+scite &
+luac
+which luac
+scite &
+cd Dropbox/
+ls
+rm ML
+rm -r ML
+ls
+mkdir torch
+cd torch/
+ls
+wget http://data.neuflow.org/data/mnist.t7.tgz
+tar xvf mnist.t7.tgz
+ls
+rm mnist.t7.tgz 
+ls
+cd mnist.t7/
+ls
+train = torch.load('train_32x32.t7')
+train = torch.load('train_32x32.t7','ascii')
+cd ..
+ls
+torch
+git clone https://github.com/clementfarabet/torch-tutorials.git
+ls
+cd torch-tutorials/
+ls
+cd 1_getstarted/
+ls
+cat getstarted.lua 
+ls
+cd img/
+ls
+lena.png
+open lena.png 
+cd ..
+cd
+cd Dropbox/torch/
+ls
+torch
+sudo apt-get install zile
+zile
+ifconfig eth0 down
+sudo ifconfig eth0 down
+sudo ifconfig eth0 up
+sudo ifdown -a
+sudo ifup -a
+sudo ifdown -a
+sudo ifup -a
+ping -c 4 google.com
+lspci
+lspci | grep -i network
+modprobe -l | grep ipw
+ping -c 4 google.com
+sudo modprobe  ipw3945
+modprobe -l | grep ipw
+ping -c 4 google.com
+modprobe -l 
+modprobe -l | grep ipw
+modprobe -l | grep ubuntu
+modprobe -l | grep ipw
+ping -c 4 google.com
+modprobe -l | grep wireless
+sudo latex fancyvrb.sty
+sudo latex Sweave
+sudo apt-get install texlive-latex-base
+sudo apt-get install texlive-latex-extra
+ping mitbbs.com
+cd Dropbox/job/cv
+ls
+latex cv_2.tex 
+pdflatex cv_2.tex 
+ls
+cd
+ls
+cd Dropbox/slides/
+ls
+unzip hakimel-reveal.js-v2.1-71-g5f2a875.zip 
+ls
+cd hakimel-reveal.js-5f2a875/
+ls
+zile index.html 
+scite index.html 
+scite index.html  &
+ls
+cd
+ls
+cd Dropbox/
+ls
+cd paper2
+ls
+unzip INSTAR_DATA-2013-01-10.zip 
+ls
+cd INSTAR\ DATA/
+ls
+cd
+ls
+cd Dropbox/
+ls
+vi server.pl
+./server.pl 
+server.pl daemon
+perl server.pl daemon
+morbo server.pl 
+ls
+cd homepage/
+ls
+morbo server.pl 
+cd ..
+cd
+ls
+cd eself/
+ls
+sbt
+ls
+ack play
+play
+ls
+cd app/
+ls
+cd ..
+ls
+cd project/
+ls
+cd ..
+ls
+run
+play
+tree
+cd ..
+rm -r eself/
+ls
+play new todolist
+ls
+cd Dropbox/perl
+ls
+mv *.pl scripts/
+ls
+man guake
+guake -h
+guake
+guake &
+ls
+sudo apt-get remove guake
+sudo apt-get install tilda
+tilda
+ls
+ls -l
+ls a-a
+ls -a
+cd .emacs.d/
+ls
+zile init.el 
+ls
+vim init.el 
+ls
+vim README.md 
+tree
+cd
+ls
+cd mblog/
+ls
+cd script/
+ls
+rm twi.db 
+cd ..
+morbo script/mblog 
+ls
+vim README.md 
+cd lib/
+ls
+rm Mblog.pm
+rm Mblog.pm~ 
+ls
+cd Mblog/
+ls
+vim Blog.pm
+vi Blog.pm
+ls
+vi Blog.pm
+cd ..
+morbo script/mblog 
+ls
+cd script/
+ls
+perl 
+perl -v
+perl -e ' "abc" . "bcd"'
+perl -e ' say "abc" . "bcd"'
+perl -e ' say "abc"."bcd"'
+perl -e ' say "abc"'
+perl -e 'say "abc"'
+perl -e 'say "abc";'
+perl -e 'print "abc";'
+perl -e 'print "abc"."a";'
+perl -e 'print "abc"./"a";'
+morbo mblog 
+cd
+cd node_modules/
+cd
+cd mblog/
+ls
+morbo script/mblog 
+ls
+git log
+git status
+git checkout -- lib/Mblog/Blog.pm
+ls
+morbo script/mblog 
+ls
+git status 
+ls
+cd lib/
+ls
+cd Mblog/
+ls
+gedit Blog.pm
+cd ..
+cd .
+cd ..
+ls
+morbo script/mblog 
+ls
+cd lib/
+ls
+cd Mblog/
+ls
+cd
+cd Dropbox/perl/
+ls
+cd mojo/
+ls
+cd mblog/
+ls
+morbo script/
+morbo script/mblog 
+ls
+cd lib/
+ls
+cd Mblog/
+ls
+cd ...
+cd ..
+cat Mblog
+ls
+cat Mblog.pm
+cd
+cd mblog/
+ls
+morbo script/mblog 
+ls
+morbo script/mblog 
+ls
+cd lib/
+ls
+cd Mblog/
+ls
+vi Twi.pm 
+cd 
+cd mblog/
+cd script/
+morbo mblog 
+cd
+cpanweb
+mojo 
+cd ..
+cd ~
+ls
+cd mblog/
+ls
+mojo routes
+mojo routes script/mblog 
+mojo
+mojo script/mblog 
+mojo script/mblog routes
+morbo script/mblog routes
+cd ..
+cd Dropbox/perl/mojo/
+ls
+cd wiki
+cat wiki 
+ls
+cat twi 
+ls
+mojo generate a
+cpandoc mojolicious
+cd
+ls
+history | ack web
+history | ack cpan
+history | ack server
+history | ack doc
+history
+vi .history
+history | ack web
+history | less
+history > a.txt
+ls
+vi a.txt 
+rm a.txt 
+ls
+ls -la | ack his
+vi .bash_history 
+perldoc Fun
+perldoc Mojolicious
+perldoc Mojolicious::Lite
+ls
+perldoc Mojolicious::Lite
+mojo generate Lite_app
+perldoc Mojolicious::Lite
+mojo generate lite_app
+cat myapp.pl 
+vi myapp.pl 
+morbo myapp.pl 
+morbo myapp.pl 3001
+ack 
+ack -f .pm
+ack -f
+perl -e 'print $ENV'
+perl -e 'print $*ENV'
+perl -e 'print @ENV'
+perl -v
+perl --version
+perl --help
+perl -E 'say 1'
+perl -V
+perl -E 'say @INC'
+perl -E 'say @INC.join("/n")'
+perl -E 'say @INC.join("/")'
+perl -E 'print @INC.join("/")'
+ls
+cd mblog/
+ls
+git status
+ls
+git commit
+ls
+git log
+ls
+vi README.md 
+git status
+ls
+cd l
+cd lib/
+ls
+cd Mblog/
+ls
+vi Blog.pm
+cd .
+cd ..
+morbo script/mblog 
+ls
+cat lib/Mblog/Blog.pm
+ls
+morbo script/mblog 
+ls
+git log
+git status
+ls
+git add db
+ls
+git log
+git status
+git commit -m 'add absolute path'
+ls
+git status
+git rm db/Perl6
+git status
+git rm db/basics
+git add README.md
+ls
+git status
+git rm db/javascript
+git rm db/mitbbs
+git rm db/test
+git rm db/todo
+git status
+git rm db/sqlite
+git status
+git add .
+git commit -m 'renew'
+ls
+git status
+git push
+ls
+git log
+git status
+ls
+vi README.md 
+ls
+cd templates/
+ls
+cd twi/
+ls
+cat add.html.ep 
+vi add.html.ep 
+ls
+cd
+cd mblog/
+tree
+cd
+ls
+cd -
+ls
+cd public/
+ls
+rm index.html 
+ls
+cd
+cd mblog/
+tree
+morbo script/mblog 
+ls
+cd ..
+ls
+morbo myapp.pl 

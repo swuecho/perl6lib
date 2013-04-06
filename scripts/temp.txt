@@ -1,0 +1,7 @@
+q[Which items are food?]
+
+q[Which item is a color?]
+
+Match()
+Parcel()
+Match.new(orig => "\npickmany: Which items are food?\n    ac: Rice\n    ac: Orange\n    ac: Mushroom\n    ai: Shoes\npickone: Which item is a color?\n    ac: Orange\n    ai: Shoes\n    ai: Mushroom\n    ai: Rice\n", from => 1, to => 33, ast => Any, list => ().list, hash => EnumMap.new("type", Match.new(orig => "\npickmany: Which items are food?\n    ac: Rice\n    ac: Orange\n    ac: Mushroom\n    ai: Shoes\npickone: Which item is a color?\n    ac: Orange\n    ai: Shoes\n    ai: Mushroom\n    ai: Rice\n", from => 1, to => 9, ast => Any, list => ().list, hash => EnumMap.new()), "text", Match.new(orig => "\npickmany: Which items are food?\n    ac: Rice\n    ac: Orange\n    ac: Mushroom\n    ai: Shoes\npickone: Which item is a color?\n    ac: Orange\n    ai: Shoes\n    ai: Mushroom\n    ai: Rice\n", from => 11, to => 32, ast => Any, list => ().list, hash => EnumMap.new()), ))

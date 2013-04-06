@@ -1,0 +1,19 @@
+use PDF::Header;
+use PDF::Object;
+use PDF::Crossref;
+use PDF::Trailer;
+use PDF::Text;
+
+class PDF is rw does Stringy {
+
+    has PDF::Header    $.header;
+    has PDF::body   @.objects;
+    has PDF::Crossref  $.xref;
+    has PDF::Tailer    $.trailer;
+
+    $.xref = PDF::Crossref.new()
+
+    method Stringy {
+     "$.header"~ @objects.join("\n") ~ $.xref ~ $.trailer;
+    }
+}

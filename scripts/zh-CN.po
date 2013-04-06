@@ -1,0 +1,231 @@
+# Perltuts translation
+# Copyright (C) 2012 Viacheslav Tykhanovskyi
+# This file is distributed under the same license as the Perltuts package.
+# Viacheslav Tykhanovskyi <viacheslav.t@gmail.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2012-09-10 10:33-0300\n"
+"CH-Revision-Date: 2012-09-11 10:33-0300\n"
+"Last-Translator: Hao Wu <echowuhao@gmail.com>\n"
+"Language-Team: zh-CN\n"
+"Language: 中文\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: templates/layout.apl:37
+msgid "@Follow"
+msgstr "@关注"
+
+#: templates/newsletter_subscribe.apl:19
+#: templates/newsletter_unsubscribe.apl:12
+msgid "Back to home page"
+msgstr "返回主页"
+
+#: templates/books.apl:3 templates/layout.apl:35
+msgid "Books"
+msgstr "书籍"
+
+#: templates/layout.apl:62
+msgid "Books and tutorials are copyrighted by their authors respectively"
+msgstr "书籍与入门教程版权归原作者所有"
+
+#: templates/index.apl:51
+msgid "Check it out for other good Perl tutorials."
+msgstr "更多Perl学习材料"
+
+#: templates/newsletter_subscribe.apl:6 templates/newsletter_unsubscribe.apl:7
+msgid "Check your email for a confirmation letter."
+msgstr "检查确认邮件"
+
+#: templates/layout.apl:63
+msgid "Code editor provided by awesome"
+msgstr "代码编辑器提供"
+
+#: templates/newsletter_confirm.apl:8
+msgid "Confirm"
+msgstr "确认"
+
+#: templates/newsletter_confirm.apl:1
+msgid "Confirmation"
+msgstr "确认"
+
+#: templates/chapter.apl:127 templates/tutorials.apl:13
+msgid "Contents"
+msgstr "目录"
+
+#: templates/tutorial.apl:35
+msgid "Copyright & License"
+msgstr "版权与许可"
+
+#: templates/get_involved.apl:9
+msgid "Drop a line at"
+msgstr "参与"
+
+#: templates/chapter.apl:86 templates/include/code.apl:73
+msgid "Errors"
+msgstr "错误"
+
+#: templates/chapter.apl:72 templates/include/code.apl:63
+msgid "Errors & Warnings"
+msgstr "错误与提示"
+
+#: templates/index.apl:18
+msgid ""
+"Ever wondered what that line would print while reading a Perl tutorial? "
+"Tired of reading outdated information? Still stuck with old books? Now there "
+"is a solution!"
+msgstr ""
+"想即时知道代码的运行结果？"
+"厌倦了过时的信息与书籍？"
+"本站就是为您而建立"
+
+#: templates/index.apl:25
+msgid "Finish exercise"
+msgstr "完成练习"
+
+#: templates/layout.apl:64
+msgid "Follow"
+msgstr "关注"
+
+#: templates/get_involved.apl:2 templates/layout.apl:36
+msgid "Get involved"
+msgstr "参与"
+
+#: templates/index.apl:30
+msgid "Get me to tutorials!"
+msgstr "订阅更多教程!"
+
+#: templates/get_involved.apl:5
+msgid "Have an idea?"
+msgstr "有更好的想法？"
+
+#: templates/layout.apl:32
+msgid "Home"
+msgstr "主页"
+
+#: templates/index.apl:15 templates/layout.apl:5
+msgid "Interactive Perl tutorials"
+msgstr "互动Perl教程"
+
+#: templates/index.apl:21
+msgid "Learn modern Perl any time and from everywhere (mobile friendly)!"
+msgstr ""
+"随时随地学习Perl（移动设备也行）！"
+
+#: templates/include/notify_me_form.apl:3
+msgid ""
+"Make sure <nobr><code>announcements-noreply@perltuts.com</code></nobr> is in "
+"your contact list so it will not end up in a spam folder."
+msgstr ""
+"请确认<nobr><code>announcements-noreply@perltuts.com</code></nobr>"
+"在您的联系人列表中，以免被放入垃圾箱"
+
+#: templates/index.apl:61
+msgid "More books"
+msgstr "更多书籍"
+
+#: templates/include/notify_me_form.apl:2
+msgid ""
+"Notify me when perltuts is out of BETA (which means more flexible and "
+"advanced tutorials)"
+msgstr ""
+"当perltuts BETA版放出时邮件通知我（通常是比较灵活，"
+"高阶的教程）。"
+
+#: templates/chapter.apl:59 templates/include/code.apl:56
+msgid "Output"
+msgstr "输出"
+
+#: templates/layout.apl:73
+msgid "Powered by"
+msgstr "驱动"
+
+#: templates/index.apl:24
+msgid "Read concise explanation"
+msgstr "阅读教程"
+
+#: templates/index.apl:49
+msgid "Recommended books"
+msgstr "书籍推荐"
+
+#: templates/chapter.apl:140 templates/include/code.apl:105
+msgid "Run"
+msgstr "运行"
+
+#: templates/chapter.apl:21
+msgid "Run & Test"
+msgstr "运行并测试"
+
+#: templates/index.apl:26
+msgid "See if it works!"
+msgstr "核对结果"
+
+#: templates/include/notify_me_form.apl:9
+msgid "Subscribers"
+msgstr "订阅"
+
+#: templates/chapter.apl:65
+msgid "Test"
+msgstr "测试"
+
+#: templates/newsletter_subscribe.apl:5 templates/newsletter_unsubscribe.apl:5
+msgid "Thank you for having interest in perltuts!"
+msgstr "谢谢您对perltuts的关注!"
+
+#: templates/newsletter_confirm.apl:4
+msgid "Thank you. Your confirmation was successful."
+msgstr "您的邮件地址已确认。谢谢。"
+
+#. ('<a href="http://perl-tutorial.org">perl-tutorial.org</a>')
+#: templates/index.apl:51
+msgid "These books are recommended by %1."
+msgstr "这些书籍由 %1 推荐。"
+
+#: templates/chapter.apl:139 templates/include/code.apl:104
+msgid "This code is editable. Click Run to execute."
+msgstr "以上代码可编辑。点击“运行”，查看结果"
+
+#: templates/tutorial.apl:30
+msgid "Translated by"
+msgstr "翻译"
+
+#: templates/layout.apl:34 templates/try.apl:3
+msgid "Try Perl 5"
+msgstr "Perl5浏览器版"
+
+#: templates/chapter.apl:112 templates/layout.apl:33 templates/tutorials.apl:5
+msgid "Tutorials"
+msgstr "入门教程"
+
+#: templates/newsletter_unsubscribe.apl:17
+msgid "Unsubscribe"
+msgstr "退订"
+
+#: templates/get_involved.apl:6
+msgid "Want to write a tutorial?"
+msgstr "想写一篇教程？"
+
+#: templates/newsletter_unsubscribe.apl:2
+msgid "You successfully unsubscribed"
+msgstr "您已成功退订"
+
+#: templates/newsletter_subscribe.apl:10
+msgid ""
+"You will be notified as soon as we are out of beta. No spam, we promise."
+msgstr ""
+"有新的教程（BETA 版）会及时通知您"
+
+#: templates/newsletter_subscribe.apl:2
+msgid "Your email is saved"
+msgstr "您的邮件地址已经加入"
+
+#: templates/tutorials.apl:13
+msgid "download as"
+msgstr "下载为"
+
+#: templates/tutorials.apl:20
+msgid "not available in"
+msgstr "将释出，处于"

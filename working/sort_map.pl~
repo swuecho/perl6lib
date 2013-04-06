@@ -1,0 +1,31 @@
+use v6;
+
+my %map1 = 1..5;
+my %map2 = 3..10;
+
+sub sorted_keys(%map1,%map2) {
+my @sorted_uniq_keys = (%map1.keys,%map2.keys).uniq.sort;
+if @sorted_keys { join(",",@sorted_uniq_keys) }
+else {"<none>"}
+}
+
+say sorted_keys(%map1,%map2);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# vi: filetype=perl6:\n

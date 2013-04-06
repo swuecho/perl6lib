@@ -1,0 +1,17 @@
+class PDF::Object::Dictionary is rw does Stringy {
+    has %.pairs;
+# TODO: change the output format
+    method Stringy {
+    my @keys = %.pairs.keys X~ ' ';
+    my @values = %.pairs.values X~ "\n";
+    "<<\n" ~
+      (@keys >>~<< @values)  ~
+    ">>\n"
+    }
+
+}
+
+
+
+
+

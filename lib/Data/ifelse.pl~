@@ -1,0 +1,13 @@
+sub test($a) {
+my @a=1..5;
+if $a==1 {
+	say 1;
+} elsif $a>@a.pick {
+	say "greater than ";
+} else {
+	say "do not know";
+}
+}
+
+test(5.rand.Int) for 1..10;
+

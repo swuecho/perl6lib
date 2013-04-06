@@ -1,0 +1,31 @@
+class PDF::Info is rw does Stringy {
+#    has Str $.version = '1.7';
+    has Str $.Author = %*ENV<LOGNAME>;
+    has Str $.Producer = 'perl6pdf';
+    has Str $.Title;
+    has Str $.Subject;
+    has Str $.Keywords;
+    has Instant $.Creation_date = now;
+
+    method Stringy {
+        "<<\n"~
+        "/Type /Info\n" ~
+        "/CreationDate ({$.Creation_date}) \n" ~
+        "/Producer ({$.Producer}) \n" ~
+        "/Author ({$.Author})\n" ~
+        "/Title ({$.Title})\n" ~
+        ">>\n"
+
+    }
+}
+
+my $pdfinfo = PDF::Info.new(Title => 'this is title',
+                            Subject => 'Subject',
+                            Keywords => 'keywords');
+
+say $pdfinfo.Author;
+say $pdfinfo.Title;
+say $pdfinfo.Subject;
+say $pdfinfo.Keywords;
+say $pdfinfo.Creation_date;
+say ~$pdfinfo;

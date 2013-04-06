@@ -1,0 +1,34 @@
+
+=begin comment
+sub test1 {
+my @a=1..5;
+my $i=0;
+while  $i<10 {
+    my $a=@a.pick;
+    say $a;
+    if $a<1 {
+	say "less than 1";
+    } elsif $a>1 {
+	say "greater than 1";
+    } else {
+	say "equal  1";
+    }
+    $i++
+}
+
+
+sub test3 {
+my @a=1..5;
+my $i=0;
+while  $i<10 {
+    my $a=@a.pick;
+    if $a<1 {
+	say 1;
+    } elsif $a>1 {
+	say "greater than 1";
+    } else {
+	say "less than 1";
+    }
+    $i++
+}
+=end comment

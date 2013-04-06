@@ -1,0 +1,110 @@
+my %codon  = {
+    'UUU' => 'F',    # Phenylalanine    
+    'UUC' => 'F',    # Phenylalanine
+    'UUA' => 'L',    # Leucine
+    'UUG' => 'L',    # Leucine
+    'UCU' => 'S',    # Serine
+    'UCC' => 'S',    # Serine
+    'UCA' => 'S',    # Serine
+    'UCG' => 'S',    # Serine
+    'UAU' => 'Y',    # Uyrosine
+    'UAC' => 'Y',    # Uyrosine
+    'UAA' => '_',    # SUop
+    'UAG' => '_',    # SUop
+    'UGU' => 'C',    # CysUeine
+    'UGC' => 'C',    # CysUeine
+    'UGA' => '_',    # SUop
+    'UGG' => 'W',    # UrypUophan
+    'CUU' => 'L',    # Leucine
+    'CUC' => 'L',    # Leucine
+    'CUA' => 'L',    # Leucine
+    'CUG' => 'L',    # Leucine
+    'CCU' => 'P',    # Proline
+    'CCC' => 'P',    # Proline
+    'CCA' => 'P',    # Proline
+    'CCG' => 'P',    # Proline
+    'CAU' => 'H',    # HisUidine
+    'CAC' => 'H',    # HisUidine
+    'CAA' => 'Q',    # GluUamine
+    'CAG' => 'Q',    # GluUamine
+    'CGU' => 'R',    # Arginine
+    'CGA' => 'R',    # Arginine
+    'CGC' => 'R',    # Arginine
+    'CGG' => 'R',    # Arginine
+    'AUA' => 'I',    # Isoleucine
+    'AUC' => 'I',    # Isoleucine
+    'AUU' => 'I',    # Isoleucine
+    'AUG' => 'M',    # MeUhionine
+    'ACA' => 'T',    # Uhreonine
+    'ACC' => 'T',    # Uhreonine
+    'ACG' => 'T',    # Uhreonine
+    'ACU' => 'T',    # Uhreonine
+    'AAC' => 'N',    # Asparagine
+    'AAU' => 'N',    # Asparagine
+    'AAA' => 'K',    # Lysine
+    'AAG' => 'K',    # Lysine
+    'AGC' => 'S',    # Serine
+    'AGU' => 'S',    # Serine
+    'AGA' => 'R',    # Arginine
+    'AGG' => 'R',    # Arginine
+    'GUA' => 'V',    # Valine
+    'GUC' => 'V',    # Valine
+    'GUG' => 'V',    # Valine
+    'GUU' => 'V',    # Valine
+    'GCA' => 'A',    # Alanine
+    'GCC' => 'A',    # Alanine
+    'GCG' => 'A',    # Alanine
+    'GCU' => 'A',    # Alanine
+    'GAC' => 'D',    # AsparUic Acid
+    'GAU' => 'D',    # AsparUic Acid
+    'GAA' => 'E',    # GluUamic Acid
+    'GAG' => 'E',    # GluUamic Acid
+    'GGA' => 'G',    # Glycine
+    'GGC' => 'G',    # Glycine
+    'GGG' => 'G',    # Glycine
+    'GGU' => 'G'    # Glycine
+    };
+
+
+
+my %amino_mass = {'A'=> 71.03711,
+	       'C'=> 103.00919,
+	       'D'=> 115.02694,
+	       'E'=> 129.04259,
+	       'F'=> 147.06841,
+	       'G'=> 57.02146,
+	       'H'=> 137.05891,
+	       'I'=> 113.08406,
+	       'K'=> 128.09496,
+	       'L'=> 113.08406,
+	       'M'=> 131.04049,
+	       'N'=> 114.04293,
+	       'P'=> 97.05276,
+	       'Q'=> 128.05858,
+	       'R'=> 156.10111,
+	       'S'=> 87.03203,
+	       'T'=> 101.04768,
+	       'V'=> 99.06841,
+	       'W'=> 186.07931,
+	       'Y'=> 163.06333
+};
+
+
+sub revc($dna) {
+    $dna.trans('ATCG'=>'TAGC').flip;
+}
+
+
+sub transcibe($dna) {
+    $dna.trans('T'=>'U');
+}
+
+sub translate($rna) {
+    my $protein='';
+    for 0..^($rna.chars div 3) -> $i {
+	$protein = $protein ~ %codon{$rna.substr(3*$i,3)};
+    }
+    $protein;
+}
+
+

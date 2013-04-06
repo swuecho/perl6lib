@@ -1,0 +1,7 @@
+if $sheep == 0 {
+        say "How boring";
+    } elsif $sheep == 1 {
+        say "One lonely sheep";
+    } else {
+        say "A herd, how lovely!";
+    }

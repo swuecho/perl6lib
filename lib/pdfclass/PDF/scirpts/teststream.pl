@@ -1,0 +1,16 @@
+module PDF::Object::Stream;
+class PDF::Object::Stream is rw does Stringy {
+    has PDF::Object::Dictionary $.dictionary;
+    has $.bytes;
+
+    method Stringy {
+    ~$.dictionary ~
+    "stream\n"~
+    "{$.bytes}\n" ~
+    "endstream\n;
+    }
+}
+ 
+my $stream = PDF::Object::Stream.new(dictionary => $dic, bytes => "this is bytes");
+
+say ~$stream;
